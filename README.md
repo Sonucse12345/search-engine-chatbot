@@ -5,11 +5,8 @@ This project focuses on building a comprehensive AI chatbot using Tavily Search 
 
 Features
 Real-time Search: Utilizes the Tavily Search Engine to perform real-time searches based on user queries.
-
 Contextual Responses: Integrates relevant information retrieved from search results to provide contextually accurate and helpful responses.
-
 Qwen Model Integration: Leverages the Qwen Model for generating responses based on the retrieved web context.
-
 Conversational AI: Provides a conversational interface where users can interact with the chatbot and receive detailed responses.
 
 
@@ -25,6 +22,7 @@ Requests Library: For making HTTP requests to interact with Tavily Search and ot
 LLM: To work with Qwen Model for generating responses.
 
 Citations:-
+
 https://python.langchain.com/docs/integrations/tools/tavily_search/
 
 https://openrouter.ai/docs/quickstart
