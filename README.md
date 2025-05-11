@@ -26,7 +26,11 @@ LLM: To work with Qwen Model for generating responses.
 
 Citations:-
 https://python.langchain.com/docs/integrations/tools/tavily_search/
+
 https://openrouter.ai/docs/quickstart
+
 https://medium.com/towards-agi/how-to-use-tavily-with-langchain-for-better-search-results-a8485b16df6a
+
 https://youtu.be/nw_N_VjjrDU?si=1u7vMtFsSlZzJU3j
+
 https://maazirfan.medium.com/a-beginners-guide-to-deploying-streamlit-apps-with-ngrok-0b3f1c50d6af
